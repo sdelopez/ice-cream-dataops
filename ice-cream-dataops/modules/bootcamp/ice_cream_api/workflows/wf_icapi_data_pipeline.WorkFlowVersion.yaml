@@ -38,7 +38,7 @@ workflowDefinition:
     type: function
     parameters:
       function:
-        externalId: ooe_timeseries_task
+        externalId: oee_timeseries
         data: { "hours": 1 }
     retries: 3
     timeout: 3600
