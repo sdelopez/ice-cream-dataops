@@ -6,7 +6,7 @@ workflowDefinition:
     type: transformation
     parameters:
       transformation:
-        externalId: create_asset_hierachy
+        externalId: create_asset_hierarchy
     retries: 3
     timeout: 3600
     onFailure: abortWorkflow
